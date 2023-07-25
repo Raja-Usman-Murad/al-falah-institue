@@ -85,7 +85,7 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #5fcf80;
+  border: 6px solid #d3ab53;
   border-top-color: #fff;
   border-bottom-color: #fff;
   border-radius: 50%;
@@ -941,7 +941,7 @@ section {
 
 .testimonials .testimonial-item .quote-icon-left,
 .testimonials .testimonial-item .quote-icon-right {
-  color: #c1ecce;
+  color: #d3ab53;
   font-size: 26px;
 }
 
@@ -973,11 +973,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #5fcf80;
+  border: 1px solid #d3ab53;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #5fcf80;
+  background-color: #d3ab53;
 }
 
 @media (max-width: 767px) {
