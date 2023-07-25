@@ -3,6 +3,13 @@ Modules:
 	3 steps:
 	Courses:
 	Tutors:
-	Prices:
+	Prices: remove add in course
 	About:
 	Contact Us:
+
+Teachers name data and update teacherspage
+update footer in all pages and add whats app and facebook link and add whats app numebre and gmail text
+add reviews in home page
+add pricing in course
+update about page
+update Contact page
