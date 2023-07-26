@@ -559,12 +559,13 @@ section {
   padding: 0;
 }
 
-.about .content ul li {
+.about .content ol li {
+  list-style-type: none;
   padding-bottom: 10px;
 }
 
-.about .content ul i {
-  font-size: 20px;
+.about .content h5 i {
+  font-size: 1.02rem;
   padding-right: 4px;
   color: #5fcf80;
 }
@@ -1099,11 +1100,11 @@ section {
 .cource-details-tabs .details p:last-child {
   margin-bottom: 0;
 }
-.arrorwOL ul {
+.arrorwUL ul {
   padding: 0;
   list-style-type: none;
 }
-.arrorwOL ul li i {
+.arrorwUL ul li i {
   color: #d3ab53;
 }
 
